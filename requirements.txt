@@ -1,0 +1,8 @@
+python-docx
+pandas
+nltk
+scikit-learn
+pyttsx3
+SpeechRecognition
+pyaudio
+genai apikey = xt
